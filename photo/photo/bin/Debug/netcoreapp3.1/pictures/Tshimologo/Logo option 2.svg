@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:none;}
+	.st4{fill:#096069;}
+	.st5{font-family:'FredokaOne-Regular';}
+	.st6{font-size:117.1368px;}
+	.st7{font-family:'Ubuntu-Title';}
+	.st8{font-size:36.0421px;}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="304.2716" y1="615.4136" x2="301.0602" y2="266.9824">
+		<stop  offset="0.4788" style="stop-color:#096069"/>
+		<stop  offset="1" style="stop-color:#1A3D3D"/>
+	</linearGradient>
+	<path class="st0" d="M351.41,410h-92.52h-3.75c-14.76,0-26.72,11.96-26.72,26.72v3.75v137.83c0,14.76,11.96,26.72,26.72,26.72h3.75
+		c14.76,0,26.72-11.96,26.72-26.72V467.2h65.79c14.76,0,26.72-11.96,26.72-26.72v-3.75C378.13,421.97,366.17,410,351.41,410z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="146.2777" y1="447.1781" x2="203.473" y2="447.1781">
+		<stop  offset="0" style="stop-color:#1A3D3D"/>
+		<stop  offset="0.6131" style="stop-color:#096069"/>
+	</linearGradient>
+	<circle class="st1" cx="174.88" cy="447.18" r="28.6"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="260.6357" y1="389.1455" x2="396.8286" y2="496.7483">
+		<stop  offset="0.1298" style="stop-color:#1A3D3D"/>
+		<stop  offset="0.639" style="stop-color:#096069"/>
+	</linearGradient>
+	<path class="st2" d="M378.13,436.73v3.75c0,14.76-11.96,26.73-26.72,26.73h-65.64c0.15-30.7,30-55.72,67.45-57.14
+		C367.14,411,378.13,422.58,378.13,436.73z"/>
+	<g>
+		<rect x="303.28" y="507.52" class="st3" width="685.48" height="91.69"/>
+		<text transform="matrix(1 0 0 1 303.2764 598.0609)" class="st4 st5 st6">shimologo</text>
+	</g>
+	<g>
+		<rect x="378.13" y="615.21" class="st3" width="284.16" height="33.09"/>
+		<text transform="matrix(1 0 0 1 378.1319 639.0013)" class="st4 st7 st8">Software solutions</text>
+	</g>
+</g>
+</svg>

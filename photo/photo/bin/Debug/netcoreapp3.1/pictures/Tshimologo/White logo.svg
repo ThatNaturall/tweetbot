@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;}
+	.st2{font-family:'FredokaOne-Regular';}
+	.st3{font-size:126.6031px;}
+	.st4{font-family:'Ubuntu-Title';}
+	.st5{font-size:38.9548px;}
+</style>
+<g>
+	<path class="st0" d="M285.09,411.22c-18.15,4.78-33.3,14.93-42.63,28.14c-7.82,9.68-12.41,21.26-12.46,33.69h-0.16v120.07
+		c0,15.96-12.95,28.89-28.89,28.89h-4.06c-15.94,0-28.89-12.93-28.89-28.89V440.1c0-15.94,12.95-28.89,28.89-28.89H285.09z"/>
+	<circle class="st0" cx="110.14" cy="451.41" r="30.91"/>
+	<rect x="248.92" y="516.62" class="st1" width="740.88" height="99.1"/>
+	<text transform="matrix(1 0 0 1 248.9194 614.4854)" class="st0 st2 st3">shimologo</text>
+	<rect x="329.82" y="633.02" class="st1" width="307.12" height="35.76"/>
+	<text transform="matrix(1 0 0 1 329.8246 658.7324)" class="st0 st4 st5">Software solutions</text>
+	<path class="st0" d="M324.83,440.32v3.64c0,14.35-11.64,26-25.99,26h-63.85c0.15-29.86,29.18-54.2,65.61-55.58
+		C314.14,415.29,324.83,426.55,324.83,440.32z"/>
+</g>
+</svg>
